@@ -1,0 +1,5 @@
+{
+  "name": "Da Sen Lin BBQ Order System",
+  "description": "A digital ordering system for a BBQ restaurant allowing customers to select items, calculate totals, and generate a screenshot-friendly bill. Includes an admin panel for menu management.",
+  "requestFramePermissions": []
+}
